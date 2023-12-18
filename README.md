@@ -15,10 +15,6 @@ Captionify is a versatile and user-friendly image captioning project that harnes
  https://github.com/Tejas911/Caption-Generator.git
 ```
 
-## Install Requirements 
-```bash
-pip install -r requirements.txt
-```
 
 ## Open Jupyter Notebook
 ```bash
