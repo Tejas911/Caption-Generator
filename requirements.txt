@@ -1,0 +1,10 @@
+git+https://github.com/huggingface/transformers
+datasets
+loralib
+sentencepiece
+bitsandbytes
+accelerate
+xformers
+einops
+langchain
+gradio
