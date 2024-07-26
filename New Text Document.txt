@@ -1,0 +1,11 @@
+Given an image-to-text description, your task is to infuse humor and fun into the provided sentence, creating a playful and entertaining caption. The goal is to add a lighthearted touch to the original description, making it more engaging and enjoyable.
+
+Example Input Sentence: "A serene mountain landscape with snow-capped peaks under a clear blue sky."
+
+Generate a caption that brings out the lighter side of the scene, incorporating humor or playful elements. Make the description not only visually vivid but also entertaining.
+
+Note to the model:
+
+Prioritize adding humor and fun to the caption while maintaining relevance to the original image-to-text description.
+Feel free to include witty remarks, playful observations, or amusing details to make the caption more enjoyable.
+Ensure the generated caption is coherent, relevant, and grammatically correct, with a focus on creating a light and amusing atmosphere.
